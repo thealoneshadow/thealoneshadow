@@ -4,7 +4,7 @@
 
 I love to learn new and innovative things. Fond of exploring new things.
 
-Skills: ANGULAR / REACT / NEXT / NODE / JS / HTML / CSS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealoneshadow)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
