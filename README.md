@@ -1,12 +1,11 @@
 ### Hi there 👋, I am Divyanshu
 #### Fullstack Developer At Cyber Group
-![Fullstack Developer At Cyber Group](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Fullstack Developer At Cyber Group](https://pbs.twimg.com/profile_images/1317146823614636034/kmqfXDkP_400x400.jpg)
 
 I love to learn new and innovative things. Fond of exploring new things.
 
 Skills: ANGULAR / REACT / NEXT / NODE / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
