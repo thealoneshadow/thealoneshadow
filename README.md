@@ -1,42 +1,10 @@
 ### Hi there 👋, I am Divyanshu
 #### Fullstack Developer At Cyber Group
-/* Change the background color of the header */
-.Header {
-    background-color: #1f6feb;
-}
-
-/* Change the font and color of the profile name */
-.user-profile-link {
-    font-family: Arial, sans-serif;
-    color: #ffffff;
-}
-
-/* Change the font size and color of the bio */
-p.bio {
-    font-size: 16px;
-    color: #333333;
-}
-
-/* Change the background color of the repositories */
-.js-calendar-graph-svg {
-    background-color: #f6f8fa;
-}
-
-/* Change the color of the commit graph */
-.ContributionCalendar-day[data-level="1"] {
-    fill: #28a745;
-}
-.ContributionCalendar-day[data-level="2"] {
-    fill: #6f42c1;
-}
-.ContributionCalendar-day[data-level="3"] {
-    fill: #d73a49;
-}
 
 
 
 
-![Fullstack Developer At Cyber Group](https://pbs.twimg.com/profile_images/1317146823614636034/kmqfXDkP_400x400.jpg)
+
 
 I love to learn new and innovative things. Fond of exploring new things.
 
