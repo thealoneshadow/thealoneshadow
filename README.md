@@ -6,7 +6,12 @@ Hi, I'm Divyanshu!
 	<a href="https://github.com/thealoneshadow" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 	</a>
-	#### Fullstack Developer | AWS DEveloper Associate
+	 
+</h1>
+<h1 align="center">
+Fullstack Developer | AWS DEveloper Associate
+	
+	 
 </h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
