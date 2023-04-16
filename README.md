@@ -1,5 +1,4 @@
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <h1 align="center">
 Hi, I'm Divyanshu!
@@ -9,7 +8,7 @@ Hi, I'm Divyanshu!
 	 
 </h1>
 <h1 align="center">
-Fullstack Developer | AWS DEveloper Associate
+Fullstack Developer | AWS Developer Associate
 	
 	 
 </h1>
@@ -28,7 +27,7 @@ Fullstack Developer | AWS DEveloper Associate
 <br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-![contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <div align="center">
 
