@@ -22,8 +22,8 @@ Fullstack Developer | AWS Developer Associate
 - A Passionate Self-taught Full Stack Web + AWS Developer
 - Loves React Ecosystem
 - Assistant Manager Exl services
-- Skills : React, Redux, Node, Express, GraphQL, MongoDB, TypeScript, Docker, MaterialUI
-- Currently learning : Next.js, AWS
+- Skills : React, Redux, Node, Next.js, AWS, Express, GraphQL, MongoDB, TypeScript, Docker, MaterialUI
+- Currently learning : Web3, Solana, Smart Contracts
 <br><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
