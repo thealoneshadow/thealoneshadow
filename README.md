@@ -8,7 +8,7 @@ Hi, I'm Divyanshu!
 	 
 </h1>
 <h1 align="center">
-Fullstack Developer | AWS Developer Associate
+Fullstack Web3 Developer | AWS Developer Associate
 	
 	 
 </h1>
